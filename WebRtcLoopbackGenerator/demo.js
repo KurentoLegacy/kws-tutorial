@@ -20,7 +20,7 @@
  *
  ******************************************************************************/
 
-const ws_uri =	'ws://demo01.kurento.org:8888/thrift/ws/websocket'; // requires Internet
+const ws_uri = 'ws://demo01.kurento.org:8888/thrift/ws/websocket'; //requires Internet connectivity
 
 window.addEventListener("load", function(event){
 	console.log("onLoad");
