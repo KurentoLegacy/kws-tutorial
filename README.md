@@ -14,7 +14,14 @@ The source code of this project can be cloned from the [GitHub repository].
 Installation instructions
 -------------------------
 
-Be sure to have installed [Bower] in your system:
+Be sure to have installed [Node.js] in your system:
+
+```bash
+sudo add-apt-repository ppa:chris-lea/node.js
+sudo apt-get update
+sudo apt-get install nodejs
+```
+Also be sure to have installed [Bower] in your system:
 
 ```bash
 sudo npm install -g bower
@@ -90,4 +97,5 @@ Follow us on Twitter @[kurentoms].
 [KurentoImage]: https://secure.gravatar.com/avatar/21a2a12c56b2a91c8918d5779f1778bf?s=120
 [kurentoms]: http://twitter.com/kurentoms
 [LGPL License]: http://www.gnu.org/licenses/lgpl-2.1.html
+[Node.js]: http://nodejs.org/
 [website]: http://kurento.org
